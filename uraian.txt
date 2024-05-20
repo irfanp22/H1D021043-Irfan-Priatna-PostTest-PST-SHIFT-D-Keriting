@@ -1,0 +1,13 @@
+1. Cara kerja dari Servo yaitu sebagai motor penggerak dalam model Sistem Tertanam, Servo memiliki beberapa jenis berdasarkan ukurannya, yaitu 90, 180, dan 360 derajat. Pergerakan dari Servo diatur dengan menggunakan looping untuk gerakan berkelanjutan.
+2. Cara kerja Ultrasonic yaitu dengan mengirim gelombang ultrasonic dan menangkapnya kembali dari pantulan obyek, hasil waktu dari selisih pengiriman dan penangkapan dihitung untuk mengukur jarak obyek dengan sensor.
+3. Contoh penggunaan sistem Tertanam
+    - Gerbang otomatis
+    - Smart lamp
+    - Smart door lock
+    - Smart Board
+    - Home service
+    - Penyiram tanaman otomatis
+    - Kiosk
+    - Vending machine
+4. Pendeteksi obyek menjadi suara untuk bantuan disabilitas:
+    cara kerjanya, kamera akan mengirim hasil gambarnya melalui wifi setelah ada trigger button setelah itu gambar diproses secara cloud dengan AI dan menjelaskan menjadi suara, hasil suara tersebut dikirimkan ke Esp32 dan keluar dari speaker atau headset dengan bluetooth.
